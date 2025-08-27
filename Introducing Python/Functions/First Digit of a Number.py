@@ -8,3 +8,11 @@
 # Output: 9
 # Constraints:
 # 1 <= n <= 109
+
+def firstDigit(n):
+    #code here
+    while n>=10:
+        n = n // 10
+    
+    return n
+    
