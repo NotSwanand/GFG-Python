@@ -8,3 +8,7 @@
 # Input: s = "World"
 # Output: "dlroW"
 # Explanation: Reverse of World is dlroW
+def reverseString(s):
+    #code here
+    rev = s[::-1]
+    return rev
