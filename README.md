@@ -9,6 +9,13 @@ This repository corresponds to the problems/exercises in the GeeksforGeeks **Pyt
 
 ---
 
+## 📜 Certificate  
+
+I successfully completed the course and earned a certificate from GeeksforGeeks:  
+👉 [View My Certificate](https://www.geeksforgeeks.org/certificate/976f92bc6eba49223020d7ccf8bf2a50)
+
+---
+
 ## 🧩 Purpose of This Repo  
 
 - To store my personal solutions to every problem/exercise in the course  
