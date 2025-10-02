@@ -5,7 +5,7 @@
 
 ## 📘 Course Link  
 This repository corresponds to the problems/exercises in the GeeksforGeeks **Python Programming — Self Paced / Master Python** course:  
-[GeeksforGeeks: Master Python Course](https://www.geeksforgeeks.org/courses/master-python-complete-beginner-to-advanced) :contentReference[oaicite:0]{index=0}
+[GeeksforGeeks: Master Python Course](https://www.geeksforgeeks.org/courses/master-python-complete-beginner-to-advanced)
 
 ---
 
